@@ -1,0 +1,6 @@
+//https\://aws-toolkit-language-servers.amazonaws.com/qAgenticChatServer/0/manifest.json="b5210839a5b9335c945a71a6cdce66d2"
+//https\://idetoolkits-hostedfiles.amazonaws.com/Notifications/Eclipse/combined/2.x.json="a36386c34bcff1ee28f18f7bdf2190ce"
+aws.q.autotrigger.eclipse=true
+clientId=079b4876-09c2-4a5d-807e-249608417758
+eclipse.preferences.version=1
+qEclipseFirstLoad=true
