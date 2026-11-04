@@ -2045,3 +2045,9 @@ Binding(CTRL+SHIFT+U,
 
 !ENTRY org.eclipse.lsp4e 1 0 2026-11-04 14:10:22.968
 !MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-04 14:54:15.824
+!MESSAGE [LS:Amazon Q Language Server][Log]	Refreshing indexes...
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-04 15:24:13.527
+!MESSAGE [LS:Amazon Q Language Server][Log]	Refreshing indexes...
